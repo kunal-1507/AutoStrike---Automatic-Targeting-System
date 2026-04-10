@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pigpio
+picamera2
+torch
+torchvision
