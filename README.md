@@ -80,25 +80,6 @@ pip install -r requirements.txt
 ```
 python src/main.py
 ```
-
----
-
-## 🖼️ Project Demonstration
-
-### 🔹 Setup
-
-(Add your setup image here)
-
-### 🔹 Output
-
-(Add output GIF or tracking result here)
-
-### 🎥 Demo Video
-
-(Add YouTube / Drive link here)
-
----
-
 ## 📊 Applications
 
 * 🛡️ Security Surveillance Systems
@@ -121,14 +102,6 @@ python src/main.py
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
-
----
-
-
-## 👨‍💻 Author
-
-**Kunal Singh Chauhan**
-Electronics & Communication Engineering
 
 ---
 
